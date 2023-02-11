@@ -1,0 +1,4 @@
+gpio_init()
+{
+    init();
+}
