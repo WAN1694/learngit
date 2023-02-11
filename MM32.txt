@@ -2,3 +2,4 @@ gpio_init()
 {
     init();
 }
+MM32 as simple as STM32
